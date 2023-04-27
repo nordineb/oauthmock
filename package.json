@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "oauth2-mock-server": "^5.0.2"
+  },
+  "name": "oauth2 mock demo",
+  "version": "1.0.0",
+  "description": "oauth2 mock demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
